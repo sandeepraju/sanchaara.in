@@ -1,14 +1,23 @@
-<!doctype html>
-<html>
-  <head></head>
-  <body>
-    <pre>
-                            _
-                           | |
-       ___  __ _ _ __   ___| |__   __ _  __ _ _ __ __ _
-      / __|/ _` | '_ \ / __| '_ \ / _` |/ _` | '__/ _` |
-      \__ \ (_| | | | | (__| | | | (_| | (_| | | | (_| |
-      |___/\__,_|_| |_|\___|_| |_|\__,_|\__,_|_|  \__,_|
-    </pre>
-  </body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
