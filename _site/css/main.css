@@ -287,11 +287,13 @@ body {
           text-decoration: none; }
     .content article .post-excerpt {
       letter-spacing: -0.02em;
+      font-family: "Droid Serif", Georgia, Cambria, Linux Libertine, "Times New Roman", Times, serif;
       font-weight: 300;
       font-style: normal;
       font-size: 20px;
       line-height: 1.3;
-      color: #666665; }
+      color: #666665;
+      text-align: justify; }
     .content article .post-meta {
       font-size: 14px;
       color: #b3b3b1;
@@ -478,7 +480,7 @@ body {
   text-overflow: ellipsis; }
 .post .post-content {
   width: 100%;
-  font-family: Linux Libertine;
+  font-family: "Droid Serif", Georgia, Cambria, Linux Libertine, "Times New Roman", Times, serif;
   color: #333333; }
   .post .post-content h1, .post .post-content h2, .post .post-content h3 {
     font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; }
