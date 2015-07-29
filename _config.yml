@@ -27,13 +27,13 @@ baseurl: ""
 permalink: pretty
 
 # social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/by2kaapi/
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+# social:
+#   - icon:	twitter
+#     url:	https://twitter.com/by2kaapi/
+#     desc: Follow me on twitter
+#     share_url: http://twitter.com/share
+#     share_title: ?text=
+#     share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -42,12 +42,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/sandeepraju/sanchaara.in/
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+# - icon:	github
+#   url:	https://github.com/sandeepraju/sanchaara.in/
+#   desc:	Fork me on github
+#   share_url:
+#   share_title:
+#   share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
@@ -55,3 +55,6 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+gems:
+  - jemoji
