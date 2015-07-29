@@ -753,5 +753,5 @@ pre {
 figure {
   display: inline; }
 
-figcaption {
+img.emoji + figcaption {
   display: none; }
