@@ -193,12 +193,39 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    z-index: 1;
-    text-indent: -9999px; }
+    z-index: 1; }
     .teaserimage .teaserimage-image .teaserimage-content {
       height: inherit;
       background-image: -webkit-linear-gradient(transparent 0%, #000 100%);
       background-image: linear-gradient(transparent 0%, #000 100%); }
+      .teaserimage .teaserimage-image .teaserimage-content .blog-title {
+        margin: 0;
+        padding: 148px 16px 8px;
+        font-size: 60px;
+        text-align: center;
+        font-weight: 700;
+        letter-spacing: -2px;
+        outline: 0;
+        line-height: 50px;
+        word-break: break-word;
+        color: #eee; }
+      .teaserimage .teaserimage-image .teaserimage-content .blog-description {
+        margin: 0 0 20px;
+        padding: 0 32px;
+        font-size: 18px;
+        line-height: 1.5;
+        color: #eee;
+        text-align: center;
+        font-weight: 400; }
+      .teaserimage .teaserimage-image .teaserimage-content .custom-links {
+        margin: 0 0 50px;
+        text-align: center;
+        color: #eee; }
+      .teaserimage .teaserimage-image .teaserimage-content a {
+        text-decoration: none;
+        color: #eee; }
+      .teaserimage .teaserimage-image .teaserimage-content:hover {
+        color: #fff; }
 
 .blog-header {
   width: 100%;
@@ -237,25 +264,19 @@ body {
     letter-spacing: -2px;
     outline: 0;
     line-height: 50px;
-    word-break: break-word;
-    color: #333; }
+    word-break: break-word; }
   .blog-header .blog-description {
     margin: 0 0 20px;
     padding: 0 32px;
     font-size: 18px;
     line-height: 1.5;
-    color: #666;
     text-align: center;
     font-weight: 400; }
   .blog-header .custom-links {
     margin: 0 0 50px;
-    text-align: center;
-    color: #ccc; }
+    text-align: center; }
     .blog-header .custom-links a {
-      text-decoration: none;
-      color: #999; }
-      .blog-header .custom-links a:hover {
-        color: #333; }
+      text-decoration: none; }
 
 .content {
   width: 100%;
