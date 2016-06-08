@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     activesupport (4.2.4)
       i18n (~> 0.7)
@@ -84,3 +85,6 @@ PLATFORMS
 
 DEPENDENCIES
   jemoji
+
+BUNDLED WITH
+   1.12.5
