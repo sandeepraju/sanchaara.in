@@ -5,6 +5,7 @@ date:   2014-02-01 14:47
 categories: weekend-getaway
 tags: western-ghats
 author: Samata Sirsikar
+author_image: /assets/images/girl.png
 image: http://sancharaa.files.wordpress.com/2014/02/chikmagalur-bangalore-horizon.jpg
 comments: true
 ---

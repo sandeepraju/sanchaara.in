@@ -5,6 +5,7 @@ date:   2014-02-09 10:00:00
 categories: cycling solo
 tags: western-ghats
 author: Vijesh Mohan
+author_image: /assets/images/boy.png
 image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
 ---
