@@ -24,7 +24,7 @@ url: "http://sanchaara.in" # the base hostname & protocol for your site
 baseurl: ""
 
 # Url configuration
-permalink: pretty
+permalink: /:year/:month/:day/:title
 
 # social icons and sharing options
 # social:
