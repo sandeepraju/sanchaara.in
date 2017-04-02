@@ -650,3 +650,74 @@ figure
   display: inline
 img.emoji + figcaption
   display: none
+
+
+/* TODO: refactor this to a different file */
+/* Social media share sidebar */
+/* ref: https://codepen.io/anandvip/pen/ELuKd */
+.social
+  width: 200px
+  height: 220px
+  position: fixed
+  left: 0px
+  top: 30%
+  margin-top: 30px
+  perspective: 1000px
+  padding: 0
+  list-style-type: none
+  li
+    a
+      display: block
+      height: 20px
+      width: 40px
+      background: #222
+      border-bottom: 1px solid #333
+      font: normal normal normal 16px/20px  'FontAwesome', 'Source Sans Pro', Helvetica, Arial, sans-serif
+      color: #fff
+      -webkit-font-smoothing: antialiased
+      padding: 10px
+      text-decoration: none
+      text-align: center
+      transition: background 0.5s ease 0.3ms
+    &:first-child a:hover
+      background: #3b5998
+    &:nth-child(2) a:hover
+      background: #00acee
+    &:nth-child(3) a:hover
+      background: #ea4c89
+    &:nth-child(4) a:hover
+      background: #dd4b39
+    &:first-child a
+      border-radius: 0 5px 0 0
+    &:last-child a
+      border-radius: 0 0 5px 0
+    a span
+      width: 100px
+      float: left
+      text-align: center
+      background: #222
+      color: #fff
+      margin: -25px 74px
+      padding: 8px
+      transform-origin: 0
+      visibility: hidden
+      opacity: 0
+      transform: rotateY(45deg)
+      border-radius: 5px
+      transition: all 0.5s ease 0.3ms
+    span:after
+      content: ''
+      display: block
+      width: 0
+      height: 0
+      position: absolute
+      left: -20px
+      top: 7px
+      border-left: 10px solid transparent
+      border-right: 10px solid #222
+      border-bottom: 10px solid transparent
+      border-top: 10px solid transparent
+    a:hover span
+      visibility: visible
+      opacity: 1
+      transform: rotateY(0)
