@@ -1,4 +1,6 @@
-<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="{{ "/assets/photoswipe/photoswipe.min.js" | prepend: site.baseurl  }}"></script>
+<script type="text/javascript" src="{{ "/assets/photoswipe/photoswipe-ui-default.min.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/jquery.fitvids.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/readingTime.min.js" | prepend: site.baseurl  }}"></script>
@@ -33,7 +35,20 @@
         }
       }
     });
+
+    // PhotoSwipe
+    var pswpElement = $('.pswp')[0];
+    // define options (if needed)
+    var options = {
+      // optionName: 'option value'
+      // for example:
+      index: 0 // start at first slide
+    };
+
+    // Initializes and opens PhotoSwipe
+    var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+    gallery.init();
+
   });
 }(jQuery));
 </script>
-
