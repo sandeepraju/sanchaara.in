@@ -7,7 +7,7 @@ Code that powers the travel blog at [sanchaara.in](http://sanchaara.in)
 
 ### Prerequisites
 
-Ensure Git and [RVM](https://rvm.io/rvm/install) is install.
+Ensure Git and [RVM](https://rvm.io/rvm/install) is installed.
 
 ### Installation steps
 
