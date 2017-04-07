@@ -3,6 +3,32 @@ sanchaara.in
 
 Code that powers the travel blog at [sanchaara.in](http://sanchaara.in)
 
+## Setting up
+
+### Prerequisites
+
+Ensure Git and [RVM](https://rvm.io/rvm/install) is install.
+
+### Installation steps
+
+* Install bundler
+
+```
+gem install bundler
+```
+
+* Install the project dependencies
+
+```
+bundle install
+```
+
+* Start serving the website
+
+```
+bundle exec jekyll serve
+```
+
 ## Licenses
 
 Different parts of this code base is licensed under different terms. This section explains it in more detail.
