@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "When the city life started to get depressingly familiar.. a weekend getaway to Chikmagalur!"
+title:  When the city life started to get depressingly familiar.. a weekend getaway to Chikmagalur!
 date:   2014-02-01 14:47
-categories: weekend-getaway
-tags: western-ghats
-author: Samata Sirsikar
-author_image: /assets/images/girl.png
-image: http://sancharaa.files.wordpress.com/2014/02/chikmagalur-bangalore-horizon.jpg
-comments: true
+author : Samata Sirsikar
+comments : true
+categories : [Adventure, India, Karnataka, Scenic, Nature, Trekking]
 ---
 
 
@@ -17,8 +14,7 @@ After maneuvering the cab through the Bangalore traffic for more than an hour, w
 
 Our first stop was Mullayanagiri. Located in Chikmagalur district, Mullayanagiri is the highest peak in South India. Before the crack of dawn, we reached the foot of the pathway to the hill-top. All excited we stepped out of the cab. For once the cold waves chased us back to the cab! The walk up the hill was intimidating. It was pitch dark. All we could see was few steps ahead of us using torch light and the beautiful city lights deep down on the side. We could hardly sense our fingertips! The stormy wind made it hard to cling on. We made it through the stairway to heaven and reached the top right on time to soak up the early morning sun. The beauty began to unravel. We were spellbound with what we saw around. We were amidst the clouds! the sun rays peeking in.. The photos speak in volumes and the experience can possibly never be put in words. We then visited a small shiva temple perched on this hill.
 
-
-![Breathtaking view of Sunrise at Mullayangiri peak!](http://sancharaa.files.wordpress.com/2014/02/1382977_10201456995359891_14808399_n.jpg)
+[caption align="aligncenter" width="660"]<a href="http://sancharaa.files.wordpress.com/2014/02/1382977_10201456995359891_14808399_n.jpg"><img class="wp-image-345 size-large" src="http://sancharaa.files.wordpress.com/2014/02/1382977_10201456995359891_14808399_n.jpg" alt="Breathtaking view of Sunrise at Mullayangiri peak!" width="660" height="440" /></a> Breathtaking view of Sunrise at Mullayangiri peak![/caption]
 
 ![-](http://sancharaa.files.wordpress.com/2014/02/img_8117.jpg)
 
