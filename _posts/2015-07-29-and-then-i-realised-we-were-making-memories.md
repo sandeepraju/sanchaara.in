@@ -2,7 +2,7 @@
 layout: post
 title: And then I realised - We were making memories.. :)
 date: 2015-07-29 15:49
-author: samatasirsikar
+author: Samata Sirsikar
 comments: true
 categories: [Uncategorized]
 ---
