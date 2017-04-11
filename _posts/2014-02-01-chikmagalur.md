@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "When the city life started to get depressingly familiar.. a weekend getaway to Chikmagalur!"
-date:   2014-02-01 14:47
+title: "When the city life started to get depressingly familiar.. a weekend getaway to Chikmagalur!"
+date:   2014-02-01 14:47:00
+categories: karnataka
+tags: scenic
 author: Samata Sirsikar
 author_image: /assets/images/boy.png
 image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
-categories: karnataka
-tags: scenic
-
 ---
+
 Bags packed, we sat on the edge of the bed making small talks, constantly waiting for the clock to tick and the phone to ring, for our turn to be picked up. This moment was the result of more than a week’s meticulous planning since it was our first trip with friends. It was a couple of months since we picked up new jobs and the endless chit-chat, hanging around was no more a daily routine. All excited, we were to get back to the fun gang we had formed back in college, the friendship which was built on the strong foundation of sarcasm and laughter! This trip had to be Epic.
 
 After maneuvering the cab through the Bangalore traffic for more than an hour, we were on the outskirts of the city. There started the unlimited talks, giggles, laughter!! Getting to the destination is half the fun.. The best part of going with your close buddies is that you don’t have to start afresh! Feels like taking a piece of home along :)
@@ -58,10 +58,10 @@ We were back with a Bang to Bangalore! :)
 
 Photos by [Vijesh](http://vijeshm.in/)
 
-**Trip duration:**  2 days, 1 night.  
-**Travel distance:**  600kms (approx)  
-**Approx cost (per head):**  ₹2500.  
-**Best time to visit:**  August to October.  
+__Trip Duration:__ 2 days, 1 night  
+__Travel Distance:__ 600kms (approx)  
+__Approx Cost:__ ₹2500  
+__Best time to visit:__ August to October
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m36!1m8!1m3!1d248314.87904624996!2d75.770488!3d13.479028!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x3bbad8a3b446124d%3A0x69e33a7e47e4081e!2sMullayanagiri+Peak!3m2!1d13.3909399!2d75.721385!4m5!1s0x3bbadf374ddfd279%3A0x8d07df9b9f2e1612!2sJhari+water+falls+path%2C+Inam+Dattathreya+Peeta%2C+Karnataka+577131%2C+India!3m2!1d13.421471799999999!2d75.7423854!4m5!1s0x3bbadf2225c24d0d%3A0xfe04e3a4c2dabb23!2sShri+Guru+Dattatreya+Baba+Budan+Swamy+Durga%2C+Inam+Dattatreya+Peeta+Grama%2C+Baba+Bundangiri+Rd%2C+Karnataka+577131%2C+India!3m2!1d13.432975299999999!2d75.75422859999999!4m5!1s0x3bbae1ad75b03e01%3A0xf02202b4b92cffbc!2sKemmannugundi%2C+India!3m2!1d13.549999999999999!2d75.75!5e0!3m2!1sen!2sus!4v1491102601981" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
