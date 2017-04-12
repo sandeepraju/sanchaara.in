@@ -19,7 +19,7 @@ It is exciting to travel to some place new. But this time, we decided to visit M
 
 We drove from San Jose to Shasta city via Redding. It is about a 5 hour scenic drive covering 300 miles. Leave early to enjoy the sunrise, tuning into some good music.
 
-![sunrise](assets/article_images/2017-04-11-shasta-calling/sunrise.jpg)
+![sunrise](/assets/article_images/2017-04-11-shasta-calling/sunrise.jpg)
 
 <b>2. Exploring the waterfalls</b>
 
