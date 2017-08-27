@@ -5,14 +5,14 @@ date:   2015-07-30 20:03:00
 categories: scenic
 tags: karnataka
 author: Samata Sirsikar
-author_image: /assets/images/boy.png
-image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
+author_image: /assets/images/girl.png
+image: https://sancharaa.files.wordpress.com/2015/07/sunrise-at-nandi-hills.jpg
 comments: true
 ---
 
 If you are one of the them who has watched the beautiful sunrise at Nandi hills, consider yourself lucky! Nothing is more beautiful than perching on a hill and watching the sun rise. Every sun shine brings in hope :)
 
-![Photo Courtesy : -](https://sancharaa.files.wordpress.com/2015/07/sunrise-at-nandi-hills.jpg)
+<!-- ![Photo Courtesy : -](https://sancharaa.files.wordpress.com/2015/07/sunrise-at-nandi-hills.jpg) -->
 
 We hate being late, but we are so good at it ;) We missed the beautiful sunrise, but the nature was in mood to treat us with something special that day.. We started around 6 in the morning and the drive was pleasant. Driving along the zig zag roads and the hair pin curves was fun :D We could see a lot of people cycling back. Probably they were one of the lucky ones ;)
 

@@ -2,7 +2,8 @@
 layout: post
 title: The Roopkund Quest
 date: 2015-10-04 01:47
-author: vijeshm
+author: Vijesh M
+author_image: /assets/images/boy.png
 comments: true
 categories: [Adventure, Ali Bugyal, Bedni Bugyal, Bhagwabasa, Ghairoli Patal, India, Lohajung, Milky Way, Mystery Lake, Nainital, Pathar Nachauni, Photography, Roopkund, Trekking, Uttarakhand]
 ---

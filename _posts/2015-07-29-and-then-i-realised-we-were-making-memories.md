@@ -5,8 +5,8 @@ date:   2015-07-29 15:49
 categories: cycling solo
 tags: kerala
 author: Samata Sirsikar
-author_image: /assets/images/boy.png
-image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
+author_image: /assets/images/girl.png
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
 ---
 

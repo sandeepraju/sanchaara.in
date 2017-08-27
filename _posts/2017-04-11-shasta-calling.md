@@ -5,11 +5,11 @@ date:   2017-04-11 00:00:00
 categories: california
 tags: scenic
 author: Samata Sirsikar
-author_image: /assets/images/boy.png
-image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
+author_image: /assets/images/girl.png
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
 ---
-Hello Spring! 
+Hello Spring!
 
 <b>0. Going to the Mountains </b>
 
@@ -35,9 +35,9 @@ During my previous visit I had fallen in love with Burney falls! It is beautiful
 
 <b>3. Open for surprises!</b>
 
-Castle Lake is a glacial lake located in the Siskiyou County. It is about a 10 mile drive from Lake Siskiyou. I remember we had a good time swimming here over the last Summer. I suggested on going to this place and hangout over the evening. I knew the water would be cold, and that swimming would generally be limited to Summer. 
+Castle Lake is a glacial lake located in the Siskiyou County. It is about a 10 mile drive from Lake Siskiyou. I remember we had a good time swimming here over the last Summer. I suggested on going to this place and hangout over the evening. I knew the water would be cold, and that swimming would generally be limited to Summer.
 
-But this was defintely not what I expected! A frozen lake! Wish I could freeze this moment.. 
+But this was defintely not what I expected! A frozen lake! Wish I could freeze this moment..
 
 ![Castle Lake - frozen](/assets/article_images/2017-04-11-shasta-calling/castlelake.jpg)
 
@@ -45,7 +45,7 @@ But this was defintely not what I expected! A frozen lake! Wish I could freeze t
 
 ![Sunset at Shasta](/assets/article_images/2017-04-11-shasta-calling/sunset.JPG)
 
-The layer of ice formed on the lake was thick enough to bear our weight. We moved about looking for cracks, if any. This was by far the best view during this trip. There was something about the tranquil white frozen lake and the stunning mountains and the trees around. We got curious to dig out the ice at a safe spot to find the water underneath it. We spent the rest of the evening here until sunset and headed to our accomodation. Lake Siskiyou camp grounds in Shashta is an ideal place to camp. 
+The layer of ice formed on the lake was thick enough to bear our weight. We moved about looking for cracks, if any. This was by far the best view during this trip. There was something about the tranquil white frozen lake and the stunning mountains and the trees around. We got curious to dig out the ice at a safe spot to find the water underneath it. We spent the rest of the evening here until sunset and headed to our accomodation. Lake Siskiyou camp grounds in Shashta is an ideal place to camp.
 
 ![Camping at Shasta](/assets/article_images/2017-04-11-shasta-calling/camping.JPG)
 
@@ -60,8 +60,3 @@ Inspired by this <a href="http://ijpr.org/post/mossbrae-forbidden-falls-dunsmuir
 
 **Trip duration:**  2 days, 1 night.  
 **Travel distance:**  650 miles  
-
-
-
-
-
