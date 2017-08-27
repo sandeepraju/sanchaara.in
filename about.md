@@ -4,7 +4,7 @@ title: About us
 permalink: /about/
 ---
 
-![Team Sanchaara](/assets/article_images/about/team.jpg)
+<!-- ![Team Sanchaara](/assets/article_images/about/team.jpg) -->
 
 Hey there.. we’re a small bunch of travel-enthusiasts hailing from Bengaluru, India. Our travel group sprouted up from our bonding during our undergrad studies. This is the place where we share our travel experiences, as individuals and as a group. We’re a mixed blend of all sorts of folks, ranging from “sweet” to “crazy”, “cool” to “geek”,  “sensible” to “panicky”.. ಪಕ್ಕ ಲೋಕಲ್ ಕನ್ನಡಿಗರು. If you are around us, you often get to hear slangs like ದಬ್ಬಾಕ್ಕೋ(get lost), ಹೊಗೆ/ಚೊಂಬು (failure),  “mishtik” for “mistake”, ಊಷ್ಟು(ruptured). Here’s a sample “Ayyo! what ಮಚಾ.. mishtik happened. Can we catch the train on time? If not all our plans ಹೊಗೆ only :grin:. ಮಚಾ, ಮಚಿ, ಮಗ, ಗಿಗ ಅಂತ ಕರ್ಯೊದ್ರಲ್ಲಿ ಇರೋ ಮಜಾನೇ ಬೇರೆ..  We forget all the formal behavior when with friends and just be ourselves! Well that’s the beauty of friendship, isn’t it? :wink:
 

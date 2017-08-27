@@ -12,7 +12,8 @@ email: me@sandeepraju.in # replace this with sanchaara group email address.
 # Blog logo
 # logo: "/assets/images/df_logo.jpg"
 # Blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "https://c1.staticflickr.com/1/751/32643494111_8a365a8555_h.jpg"
+# cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Team Sanchaara'
 author: 'Team Sanchaara'
