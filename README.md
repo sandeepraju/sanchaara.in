@@ -11,6 +11,12 @@ Ensure Git and [RVM](https://rvm.io/rvm/install) is installed.
 
 ### Installation steps
 
+* Install and use `Ruby 2.1`
+
+```
+rvm install 2.1 && rvm use 2.1
+```
+
 * Install bundler
 
 ```
