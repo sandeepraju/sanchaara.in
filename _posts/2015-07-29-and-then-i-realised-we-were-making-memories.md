@@ -2,7 +2,7 @@
 layout: post
 title:  "And then I realised - We were making memories.. :)"
 date:   2015-07-29 15:49
-categories: cycling solo
+categories: monsoon
 tags: kerala
 author: Samata Sirsikar
 author_image: /assets/images/girl.png
