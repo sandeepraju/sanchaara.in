@@ -2,11 +2,12 @@
 layout: post
 title: The Roopkund Quest
 date: 2015-10-04 01:47
+categories: adventure
 author: Vijesh M
 author_image: /assets/images/boy.png
 image: https://c1.staticflickr.com/9/8891/18291901515_930e69621d_h.jpg
 comments: true
-categories: adventure
+
 # categories: [Adventure, Ali Bugyal, Bedni Bugyal, Bhagwabasa, Ghairoli Patal, India, Lohajung, Milky Way, Mystery Lake, Nainital, Pathar Nachauni, Photography, Roopkund, Trekking, Uttarakhand]
 ---
 Ah, the Himalayas! A paradise for some and a challenge for others. I’ve always wanted to go to the Himalayas and experience it first hand. I wanted to see what the excitement was all about. Things fell into place during December 2014 and we were off on a trek to Dalhousie. I guess that’s where the mountains cast a spell on me. They say that the mountains pull you back. And in May 2015, they did. This time, the destination was Roopkund, the mystery lake!
