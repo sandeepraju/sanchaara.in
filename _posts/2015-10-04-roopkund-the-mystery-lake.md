@@ -5,7 +5,8 @@ date: 2015-10-04 01:47
 author: Vijesh M
 author_image: /assets/images/boy.png
 comments: true
-categories: [Adventure, Ali Bugyal, Bedni Bugyal, Bhagwabasa, Ghairoli Patal, India, Lohajung, Milky Way, Mystery Lake, Nainital, Pathar Nachauni, Photography, Roopkund, Trekking, Uttarakhand]
+categories: adventure
+# categories: [Adventure, Ali Bugyal, Bedni Bugyal, Bhagwabasa, Ghairoli Patal, India, Lohajung, Milky Way, Mystery Lake, Nainital, Pathar Nachauni, Photography, Roopkund, Trekking, Uttarakhand]
 ---
 Ah, the Himalayas! A paradise for some and a challenge for others. I’ve always wanted to go to the Himalayas and experience it first hand. I wanted to see what the excitement was all about. Things fell into place during December 2014 and we were off on a trek to Dalhousie. I guess that’s where the mountains cast a spell on me. They say that the mountains pull you back. And in May 2015, they did. This time, the destination was Roopkund, the mystery lake!
 
@@ -13,7 +14,9 @@ I’m a photographer and I get excited about astronomy as well. I’ve been seei
 
 Before you read on, do take a look at the trailer that I’ve compiled. The full length is still in work-in-progress status. I'll update the blog once it's complete.
 
-[embed]https://www.youtube.com/watch?v=bMXKTBm-vT8[/embed]
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/bMXKTBm-vT8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+<br/>
 
 <b>Preparations for the trek:</b>
 
@@ -41,7 +44,7 @@ A piece of advice, it’s not good enough if you’re on time. Reach early and a
 
 The train station was pretty empty when we reached early morning. After freshening up a bit, we had tea and took a bus to Nainital. Buses are quite frequent along this route. We reached Nainital in about 1.5 hours. We had booked the government rest house and it was pretty good. It turned out to be economical and we had a good view of Nainital lake from the room. After a boat ride in Nainital lake, we roamed around the streets of Nainital. It’s a pretty good place with good food to eat. We went to the market and explored the place a bit. As night fell, the lake lit up with the reflections from the nearby households on the slope. It was a wonderful sight to watch.
 
-<a href="https://sancharaa.files.wordpress.com/2015/10/18291962785_69ed4845f1_k.jpg"><img class="wp-image-350 size-large" src="https://sancharaa.files.wordpress.com/2015/10/18291962785_69ed4845f1_k.jpg?w=660" alt="Roopkund_Blog_Nainital" width="660" height="440" /></a>
+![Nainital](https://sancharaa.files.wordpress.com/2015/10/18291962785_69ed4845f1_k.jpg)
 
 <b>Day 3 | 17th May, 2015 | Nainital</b>
 
@@ -51,7 +54,7 @@ We hit the Zoo! Yes, there’s a high altitude Zoo in Nainital. The ‘ascent’
 
 Day 4 was all about hitting the road. We had rented a car and it takes around 6-7 hours to reach Lohajung from Nainital. The route is scenic. You get occasional glimpses of lower Himalayan ranges. It’s like they’re playing hide and seek with you. The needle-like leaves along the route indicated that the area would be covered in snow during winter. It’s amazing how evolution has led life to thrive in harsh conditions. We reached Lohajung Base camp around 3 in the afternoon. Other trekkers hadn’t arrived yet. We were greeted by our trek leader and camp leader. Ours was the second batch in the trekking programme. It’s always better to book an early ticket for treks involving snow. We finished the onsite registration and collected the trekking poles. Trust me, you <b>need</b> a trekking pole! As the evening fell, other trekkers started to pour in, and so did the rain.
 
-[caption id="attachment_345" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/17669307454_c125ee7bd9_k.jpg"><img class="wp-image-345 size-large" src="https://sancharaa.files.wordpress.com/2015/10/17669307454_c125ee7bd9_k.jpg?w=660" alt="Roopkund_Blog_Lohajung" width="660" height="440" /></a> Sunlight piercing through the clouds after a moderate rainfall[/caption]
+![Lohajung - Sunlight piercing through the clouds after a moderate rainfall](https://sancharaa.files.wordpress.com/2015/10/17669307454_c125ee7bd9_k.jpg)
 
 We looked towards the direction of Roopkund. Dark gloomy clouds hovering over the trek path was not something we wanted to see. After a while, we were briefed about the trek, it’s difficulty, do’s and dont’s. Quite frankly, I was a bit eery after listening to how things could go wrong. Apparently, AMS (Acute Mountain Sickness) is more serious than I initially thought it was. We were advised to start off on a Diamox dosage, which I didn’t. Just when I was mentally preparing for the trek, bad news struck! The forest department had closed down the trekking path due to unforeseen circumstances. I was heartbroken.
 
@@ -75,9 +78,9 @@ As the evening set, the bright blue sky turned gloomy grey. It was about to rain
 
 I open my eyes all of a sudden and my watch reads 3:30. I’m not a morning person. In fact, I often sleep at 3:30 and this felt strange. Very strange. I don’t know how I woke up, but I realized why I did. All I had to was step out of my tent into the cold and look up at the Himalayan night sky. Gazillions of stars staring at you! The light from their cores must’ve traveled for millions of years, only to hit you in the eye all at once. I was ecstatic. Instantly, I knew what I had to do. I pulled out my camera, setup my tripod and pointed it to the South sky. This was the moment that I had been waiting for.. The Milky Way!
 
-[caption id="attachment_348" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/18288020972_bc85ebb7c5_k.jpg"><img class="wp-image-348 size-large" src="https://sancharaa.files.wordpress.com/2015/10/18288020972_bc85ebb7c5_k.jpg?w=660" alt="Roopkund_Blog_Gharoli_Patal" width="660" height="440" /></a> The Milky Way![/caption]
+![Gharoli Patal - The Milky Way!](https://sancharaa.files.wordpress.com/2015/10/18288020972_bc85ebb7c5_k.jpg)
 
-<a href="https://sancharaa.files.wordpress.com/2015/10/img_7850.jpg"><img class="wp-image-352 size-large" src="https://sancharaa.files.wordpress.com/2015/10/img_7850.jpg?w=660" alt="The *excited* writeup!" width="660" height="990" /></a>
+![The *excited* writeup!](https://sancharaa.files.wordpress.com/2015/10/img_7850.jpg)
 
 I didn’t know I was gonna fulfil one of dreams this early in the trek. The average human tendency to share the excitement drove me to wake Navaneeth up and show the images. I wanted to shoot more and it was already 4. By the time I followed the Milky Way’s tail, I started to see a blue tinge of sunlight in my photos. Obviously, I had woken up too late. Needless to say, I wanted to try again. Opportunities like these are very rare indeed. Here’s an excerpt from the night’s script:
 
@@ -95,7 +98,7 @@ Some of the trekkers spent the afternoon playing cricket at the camp, and some s
 
 Around 4 in the evening, winds picked up and it started raining heavily. Talk about Himalayan weather, eh? I thought my plans for the night will go for a toss. Luckily, the skies cleared up in a couple of hours and all was well. We had dinner (one of the best, I must say!) and some of the trekkers were curious to know more about how to tune the camera to shoot the stars. Well, I can’t say no to a photography gyaan. I spent the next hour explaining how a camera works in simple terms. To put it in practice, they wanted to join me for the night’s shoot. We slept at 9 and woke up at 12, shot till 2 and crawled back into the cozy sleeping bags again. Here’s what we could shoot:
 
-[caption id="attachment_351" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/img_4532.jpg"><img class="size-large wp-image-351" src="https://sancharaa.files.wordpress.com/2015/10/img_4532.jpg?w=660" alt="The Milky Way!" width="660" height="990" /></a> The Milky Way![/caption]
+![The Milky Way!](https://sancharaa.files.wordpress.com/2015/10/img_4532.jpg)
 
 At this point in time, my camera battery had completely died out!
 
@@ -107,11 +110,11 @@ From Bedni Bugyal, we had to ascend back to the trail. This was a relatively ste
 
 As we started ascending from Bedni Bugyal, we got to see Bedni kund. This is a small lake with a mandir. I wanted to get a shot of the lake, but my batteries were down. I had put my GoPro to charge overnight. A quick tip, don’t! I ended up losing half the charge on my portable charger, with the GoPro retaining none.
 
-[caption id="attachment_343" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/17669196684_c46b5736ed_k.jpg"><img class="size-large wp-image-343" src="https://sancharaa.files.wordpress.com/2015/10/17669196684_c46b5736ed_k.jpg?w=660" alt="Bedni Kund, on the way to Pathar Nachauni" width="660" height="440" /></a> Bedni Kund, on the way to Pathar Nachauni[/caption]
+![Bedni Kund, on the way to Pathar Nachauni](https://sancharaa.files.wordpress.com/2015/10/17669196684_c46b5736ed_k.jpg)
 
 The terrain changes so quickly as we gain altitude in the Himalayas. Into an hour of trekking, the meadows opened up to a rocky terrain. Apparently, it had snowed at higher altitudes the previous night. Luckily, the weather was stable now. As we gained altitude, we could see snow deposited on either side of the path. This was our first encounter with the snow-ridden path and we all were pretty excited. There were some men clearing the trekking path for us ahead.
 
-[caption id="attachment_346" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/17671317713_933fa28c87_k.jpg"><img class="size-large wp-image-346" src="https://sancharaa.files.wordpress.com/2015/10/17671317713_933fa28c87_k.jpg?w=660" alt="The path to Pathar Nacahauni" width="660" height="440" /></a> The path to Pathar Nacahauni[/caption]
+![The path to Pathar Nacahauni](https://sancharaa.files.wordpress.com/2015/10/17671317713_933fa28c87_k.jpg)
 
 Trekking on the snow was harder than I had anticipated. It would’ve probably been easier if it weren’t for my swaying camera bag and a heavy backpack. I moved to the front of the group to shoot the video. I found out the hard way that shooting, balancing and climbing is a tough task. I slipped and fell a couple of times. Mules do not carry the luggage up till Pathar Nachauni. There is a place called Ghora Lautani, which literally translates to “place where horses turn back”. Pathar Nachauni literally translates to ”dancers made of rock”. There is a local legend behind this place which explains the name.
 
@@ -121,7 +124,7 @@ After dinner, I casually washed the utensils in the cold water with my bare hand
 
 A piece of advice, never rinse your bare hands with cold water at 9 in the himalayan night.
 
-<a href="https://sancharaa.files.wordpress.com/2015/10/18291908975_34999c0c3e_k.jpg"><img class="wp-image-349 size-large" src="https://sancharaa.files.wordpress.com/2015/10/18291908975_34999c0c3e_k.jpg?w=660" alt="Nothing beats hot tea in during the cold, windy evenings." width="660" height="440" /></a>
+![Nothing beats hot tea in during the cold, windy evenings.](https://sancharaa.files.wordpress.com/2015/10/18291908975_34999c0c3e_k.jpg)
 
 <b>Day 8 | 22nd May, 2015 | Pathar Nachauni - Bhagwabasa</b>
 
@@ -129,7 +132,7 @@ A piece of advice, never rinse your bare hands with cold water at 9 in the himal
 
 That was a much needed refreshing sleep! The trek would get much more interesting from this point onwards. We had heard that the Bhagwabasa camp was completely on snow! Layers and layers of snow. It was going to be a relatively harder trek for the next couple of days. The trekking path was an ascent till Kalu Vinayak temple and a gradual descent to Bhagwabasa camp.
 
-We were given a facility to deposit a few of the luggage at Pathar Nachauni. Since my camera bag was giving me troubles, I deposited it over there. We were also given snow grippers. Its an elastic addon  with metallic spikes at the bottom. It helps in providing grip while trekking on snow. The trek leaders showed us how to use them and would instruct us to put it on when required.
+We were given a facility to deposit a few of the luggage at Pathar Nachauni. Since my camera bag was giving me troubles, I deposited it over there. We were also given snow grippers. Its an elastic addon with metallic spikes at the bottom. It helps in providing grip while trekking on snow. The trek leaders showed us how to use them and would instruct us to put it on when required.
 
 The trek up to Kalu Vinayak temple was a hard one. The path was primarily rocky and there was occasional snow along the trekking path. While we were struggling to walk on the snow, I could see some locals running down the slopes of the snow-ridden mountains. “Given enough time, anyone can do anything.”, I thought. By the time we reached Kalu Vinayak temple, I was very disappointed. You’re on a peak. You look around and you see the mighty Himalayan peaks all around you. Wow, what a sight! You look down at your feet, and you’re standing on garbage! Wow (sarcasm), what a sight! Remember the eco bags that we had? I picked up most of the throwaways and deposited them into the eco bag. I highly encourage you to pick up the plastics along your trek path, wherever that is.
 
@@ -141,7 +144,7 @@ A place right next to the camp was slightly elevated. We used this a slide. Peop
 
 As the evening fell, people began clicking pictures. I felt handicapped without a DSLR. A quarter capacity of the portable charger was all that I had left. And I had to save the last for the best. The sunset on this fine evening is something that I can never forget! High altitude Himalayan sunsets are so serene. Now I understand why people get lost in philosophical thoughts. It cannot be explained, it can only be experienced.
 
-[caption id="attachment_354" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/roopkund_bhagwabasa.jpg"><img class="wp-image-354 size-large" src="https://sancharaa.files.wordpress.com/2015/10/roopkund_bhagwabasa.jpg?w=660" alt="Himalayan Sunset at Bhagwabasa" width="660" height="440" /></a> Himalayan Sunset at Bhagwabasa. Photo Credits: Subramanian M[/caption]
+![Himalayan Sunset at Bhagwabasa. Photo Credits: Subramanian M](https://sancharaa.files.wordpress.com/2015/10/roopkund_bhagwabasa.jpg)
 
 The first thing that I did while I was entering the campsite was to checkout out the composition towards South. Kaali Daak, a snow covered peak, was standing in all it’s might. I could imagine how The Milky Way would be positioned against the mountain. I could imagine how I would compose the image. I knew the exact camera settings that I had to make to get that perfect shot. I knew the exact time that I had to get up to get that shot. The weather was clear and the stage was set!
 
@@ -155,7 +158,7 @@ Luckily, our extremely energetic professor and photographer, Subramanian sir, ca
 
 Carrying a tripod, DSLR and lenses all the way to the top along with other necessities was damn hard. Moreover, getting up and stepping out of the tent at 1 in the bone chilling night at higher altitudes wasn't as easy as I had thought. I took off my gloves to setup the tripod and camera. By the time I was done, I couldn't feel my fingers due to the cold. All this, after a tiring trek the previous day and more tiring and a sleepless trek up ahead. I set the focus on my lens and pointed my camera towards the Kaali Daak peak. I made some settings and clicked the shutter release. And voilà, this is the image:
 
-[caption id="attachment_347" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/18288008532_0de7b4c5a8_k.jpg"><img class="size-large wp-image-347" src="https://sancharaa.files.wordpress.com/2015/10/18288008532_0de7b4c5a8_k.jpg?w=660" alt="The Grand Galaxy: Milky May, as seen from Bhagwabasa at 12:59 AM on 23rd May, 2015." width="660" height="440" /></a> The Grand Galaxy: Milky May, as seen from Bhagwabasa at 12:59 AM on 23rd May, 2015.[/caption]
+![The Grand Galaxy: Milky May, as seen from Bhagwabasa at 12:59 AM on 23rd May, 2015.](https://sancharaa.files.wordpress.com/2015/10/18288008532_0de7b4c5a8_k.jpg)
 
 The key to capturing the grand galaxy is to know when and where to shoot. From my previous attempt at Khajjiar lake during December, I figured that the moonless, cloudless nights at a place without light pollution during the peak of the summer is the best time to shoot the Milky Way in the Northern Hemisphere. A lot of stuff just fell in place. Otherwise, it wouldn’t have been possible for me to capture this beauty. Coincidentally, this trek was a perfect match for the requirement. The trek was almost cancelled before it even started. Although I had run out of batteries, Subramanian sir was kind enough to share his spare battery pack. The weather was clear. I must say, I’m very lucky to have captured this image.
 
@@ -163,9 +166,9 @@ I went back to the tent at 2:00 in the night. We were supposed to get up at 3:00
 
 For me, trekking on the hard snow at 4 AM with a flashlight and trekking pole was a thrilling experience! One slip, and you would roll over down the mountain. I was scared to look down at first, but eventually, I got used to it. Trekking pole serves as a third leg while ascending and descending. Without it, it’s virtually impossible to trek, unless you’re exposed to this environment. I wasn’t feeling all that well and energetic. For some reason, I couldn’t even talk clearly. Probably, the lack of sleep the previous night had something to do with it. There was even a point in time during the ascent when I just wanted it to be finished. I was carrying my DSLR and a couple of lenses in my bag as well. This added a lot of extra difficulty. The brain said “Give up!”, heart said “No!”. (and the mouth couldn’t say anything. I couldn’t speak properly, remember?). The path twists and turns, with some crazy ascents. You keep toggling between hill side and valley side trekking. As a typical trekking group, the individual speeds of the trekkers vary a lot. This makes the group spread wide along the trail. The trek leaders did a wonderful job of keeping the team together. However, the downside of this was the long waiting time everytime we regrouped and reorganized. After a long 3 hour trek, we were finally able to see the Roopkund valley at a distance, and there were cheers. After one final push up the steep slope, we had finally made it!
 
-<a href="https://sancharaa.files.wordpress.com/2015/10/17669292414_e6ddf968cc_k.jpg"><img class="wp-image-344 size-large aligncenter" src="https://sancharaa.files.wordpress.com/2015/10/17669292414_e6ddf968cc_k.jpg?w=660" alt="" width="660" height="440" /></a>
+![Bloody Hell!](https://sancharaa.files.wordpress.com/2015/10/17669292414_e6ddf968cc_k.jpg)
 
-[caption id="attachment_355" align="aligncenter" width="660"]<a href="https://sancharaa.files.wordpress.com/2015/10/mg_0206.jpg"><img class="wp-image-355 size-large" src="https://sancharaa.files.wordpress.com/2015/10/mg_0206.jpg?w=660" alt="The Team" width="660" height="440" /></a> The Team! Photo Credits: Subramanian M[/caption]
+![The Team! Photo Credits: Subramanian M](https://sancharaa.files.wordpress.com/2015/10/mg_0206.jpg)
 
 We congratulated one another and spent time clicking pictures and shooting videos. It was a moment of rejoice. This is what we had trekked so long and hard for. We didn’t climb down till the frozen lake as it was risky. On the top, I noticed that I hadn’t tied my shoe lace properly. This made the ascent much more tougher. Sadly, we couldn’t see any of the skeletal remains either. That disappointed me a bit, but that’s alright. You can’t have the cake and eat it too. There’s always next time. No one went up to Junargali either, as we were running out of time. I still remember the taste of hot parathas on the top. Yes, one of the guides had actually carried hot parathas till the peak, just for us.
 
@@ -194,21 +197,22 @@ Home, Sweet Home!
 
 This was my hardest and highest trek till date. This 6-day trek in the high altitudes offered a lot of terrains. First, there were dense forests, followed by plain grasslands, rocky terrains, hard snow, soft melting snow and even cement tracks. There were a lot of sleepless nights, slips, falls, fatigue and a good amount of tan. Thanks <a href="http://indiahikes.in/">indiahikes.in</a>, for organizing such an amazing trek. The food was amazing, especially the hot gulab jamun at the highest camp and maggi during the descent. Its virtually impossible to reach roopkund without the help of the local guides. They taught us the tips and tricks of trekking across different terrains and narrated the stories behind the places that we were crossing. The technical team for the last ascent was equally amazing! I managed to get a few snaps that I had been craving since years. Carrying most of my photography equipment to the top was totally worth it! This was also the first time I was shooting with my new GoPro Hero. I managed to capture some amazing videos and I plan to make a travelogue out of it soon.
 
-Here are the high resolution image set: <a href="https://www.flickr.com/photos/vijeshm/sets/72157651411379514">https://www.flickr.com/photos/vijeshm/sets/72157651411379514</a>
+Here are the high resolution image set:
+<br/>
+<a href="https://www.flickr.com/photos/vijeshm/sets/72157651411379514">https://www.flickr.com/photos/vijeshm/sets/72157651411379514</a>
 
-<strong>Trip Duration:</strong> 8 Days, 9 Nights (from Delhi to Delhi, excluding our Nainital detour)
+<b>Trip Duration:</b> 8 Days, 9 Nights (from Delhi to Delhi, excluding our Nainital detour)
 
-<strong>Travel Arrangements:</strong> <a href="http://indiahikes.in/">Indiahikes</a>, <a href="http://roopkund.com">Roopkund.com</a>
+<b>Travel Arrangements:</b> <a href="http://indiahikes.in/">Indiahikes</a>, <a href="http://roopkund.com">Roopkund.com</a>
 
-<strong>Trekking Equipment:</strong> <a href="http://www.decathlon.in/">Decathlon</a>
+<b>Trekking Equipment:</b> <a href="http://www.decathlon.in/">Decathlon</a>
 
-<strong>Approximate Cost: (pick those relevant to you and sum it up)</strong>
-<ol>
-	<li>Flight ticket (Bangalore to Delhi and back): ₹10,000</li>
-	<li>Train Ticket (Delhi to Katgodham and back): ₹1,500</li>
-	<li>Trek Registration: ₹10,500</li>
-	<li>Trekking equipment (Rucksack, Trekking shoes, Jacket, Thermals, Gloves, Goggles, Trekking pole): ₹16,000 - ₹18,000
-Do keep in mind that this is a one-time investment.</li>
-	<li>Miscellaneous: ₹2,000</li>
-</ol>
-<strong>Best time to visit:</strong> May - October
+<b>Approximate Cost: (pick those relevant to you and sum it up)</b>
+
+* __Flight ticket (Bangalore to Delhi and back):__ ₹10,000
+* __Train Ticket (Delhi to Katgodham and back):__ ₹1,500
+* __Trek Registration:__ ₹10,500
+* __Trekking equipment (Rucksack, Trekking shoes, Jacket, Thermals, Gloves, Goggles, Trekking pole):__ ₹16,000 - ₹18,000. Do keep in mind that this is a one-time investment.
+* __Miscellaneous:__ ₹2,000
+
+<b>Best time to visit:</b> May - October
