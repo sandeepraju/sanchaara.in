@@ -2,11 +2,11 @@
 layout: post
 title:  "Sagara - Jog Falls: A trip of a lifetime."
 date:   2014-02-09 10:00:00
-categories: cycling solo
+categories: cycling
 tags: western-ghats
 author: Vijesh Mohan
 author_image: /assets/images/boy.png
-image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
 ---
 I must say I haven't explored a lot of places within Karnataka. Out of the ones I've been to, I've found places in and around Shimoga district to be the best. The beauty of Malenadu is best experienced during monsoon. I had a wonderful opportunity to visit the region during the peak of Monsoon 2013. It was a trip of a lifetime!
@@ -35,37 +35,37 @@ And now you know why I call it a trip of a lifetime, my lifetime at least.
 
 <!-- TODO: download and link these images from Github assets folder -->
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7126.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7126.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_6905.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_6905.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7214.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7214.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7194.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7194.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7191.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7191.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7188.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7188.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7177.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7177.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7170.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7170.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7153.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7153.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_7039.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_7039.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_6990.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_6990.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_6986.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_6986.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_6975.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_6975.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_6971.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_6971.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_6962.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_6962.jpg)
 
-![TODO](http://sancharaa.files.wordpress.com/2014/02/img_6912.jpg)
+![](http://sancharaa.files.wordpress.com/2014/02/img_6912.jpg)
 
 __Trip Duration:__ 4 days, 4 nights  
 __Travel Distance:__ 700kms (by bus), 80kms (on cycle)  
