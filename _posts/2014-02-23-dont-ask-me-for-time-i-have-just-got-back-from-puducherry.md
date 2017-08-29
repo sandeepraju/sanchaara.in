@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "DON’T ASK ME FOR TIME, I HAVE JUST GOT BACK FROM PUDUCHERRY!"
+title:  "DON'T ASK ME FOR TIME, I HAVE JUST GOT BACK FROM PUDUCHERRY!"
 date:   2014-02-23 11:44
 categories: weekend-getaway
 tags: [Short Trips, Travel]
 author: Shobitha Shetty
-image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
+author_image: /assets/images/girl.png
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
 ---
 
 
-This was during our great engineering days. After those last minute preparations for our 7<sup>th</sup> semester end exams and managing to jolt down something sensible on the answer sheet, it was time for us to take a break. I clearly remember,it was 7th of January 2013 and we 3 friends were avid for a trip, away from Bangalore, to some place where we can just relax and forget time. And what better place than "Puducherry", affectionately called "Pondi".
+This was during our great engineering days. After those last minute preparations for our 7<sup>th</sup> semester end exams and managing to jolt down something sensible on the answer sheet, it was time for us to take a break. I clearly remember, it was 7th of January 2013 and we 3 friends were avid for a trip, away from Bangalore, to some place where we can just relax and forget time. And what better place than "Puducherry", affectionately called "Pondi".
 
 After a quick research on our destination and multiple attempts of trying to convince our parents to get their consent for this trip, we left by a KSRTC Volvo to Pondi. (We were just 3 in number. So a public transport was the best option). All excited, we chose to just talk and talk throughout the whole journey and not sleep.
 
@@ -26,13 +27,13 @@ Journey to Paradise Beach took around 20 minutes. But to reach the actual spot w
 
 They usually allow you to play in this beach for a max of 3 hours, which is a fair enough time. There are also few security guards in the beach, who along with their security duty, make sure that we do not litter the beach. The Ferry journey also contains some good scenery around it.  After having a gala time at the beach, we headed back in the Ferry and walked towards our auto. By now the auto-wala had transformed into our good friend and we started referring him as auto-anna.  He suggested that we 3 go to "Chettinad" or "Appachi" for lunch. And hence we ended up in Appachi. For people who like spicy food, Appachi would be a good choice. The place is a little gloomy and dark, but thumbs up for the food.
 
-Followed by a good nap, we headed towards "Promenade". This is the best place you can spend your evenings at. A long stretch along the beach with nice, wide roads, clean wide  pavements with French colonial style buildings on one side and Bay of Bengal on the other. You can just walk along the stretch, feeling the cool ocean breeze hit you smoothly or just sit on the stones,listening to songs and enjoying each and every attempt of  waves to climb those black stones and hit you.
+Followed by a good nap, we headed towards "Promenade". This is the best place you can spend your evenings at. A long stretch along the beach with nice, wide roads, clean wide  pavements with French colonial style buildings on one side and Bay of Bengal on the other. You can just walk along the stretch, feeling the cool ocean breeze hit you smoothly or just sit on the stones, listening to songs and enjoying each and every attempt of  waves to climb those black stones and hit you.
 
 ![Promenade - side walk](http://sancharaa.files.wordpress.com/2014/02/dsc05396.jpg)
 
-It's just an amazing place to spend time, doing nothing. And the best part,vehicles are not allowed on this road after 6, giving away the whole road and pavement to the walkers. Also along the stretch there are lot of eateries.There is also this famous "Le Cafe" which mostly attracts the foreign crowd. The food is okay but the location for this restaurant is great.  After having an indelible time at Promenade we headed back to our rooms, closing our trip for the day.
+It's just an amazing place to spend time, doing nothing. And the best part, vehicles are not allowed on this road after 6, giving away the whole road and pavement to the walkers. Also along the stretch there are lot of eateries.There is also this famous "Le Cafe" which mostly attracts the foreign crowd. The food is okay but the location for this restaurant is great.  After having an indelible time at Promenade we headed back to our rooms, closing our trip for the day.
 
-On the 2nd day of our Pondi trip, we visited the Pondicherry Museum. Contains quite a good collection of paintings,various stuffs belonging to the French period and those belonging to various rulers of Pondi. Next we started exploring the streets of Pondi, which was a good decision by the way. The various French styled buildings in yellow gives you an momentary illusion that you are in France.
+On the 2nd day of our Pondi trip, we visited the Pondicherry Museum. Contains quite a good collection of paintings, various stuffs belonging to the French period and those belonging to various rulers of Pondi. Next we started exploring the streets of Pondi, which was a good decision by the way. The various French styled buildings in yellow gives you an momentary illusion that you are in France.
 
 ![-](http://sancharaa.files.wordpress.com/2014/02/dsc05096.jpg)
 ![French styled Buildings along the streets](http://sancharaa.files.wordpress.com/2014/02/dsc04994.jpg)
@@ -45,7 +46,7 @@ Auroville ashram is another place that you could visit.It has a gold plated "Man
 
 ![Mantrimandir](http://sancharaa.files.wordpress.com/2014/02/dsc01517.jpg)
 
-Another very good alternative is a visit to "Mahabalipuram", which is approximately 98 kms from Pondi. There are buses that ply to Mahabalipuram from Pondi. A visit to Mahabalipuram will take your one whole day because there are lot of places that are worth seeing there, such as Shore temple,Pancha Ratha etc etc.
+Another very good alternative is a visit to "Mahabalipuram", which is approximately 98 kms from Pondi. There are buses that ply to Mahabalipuram from Pondi. A visit to Mahabalipuram will take your one whole day because there are lot of places that are worth seeing there, such as Shore temple, Pancha Ratha etc etc.
 
 
 Anyway coming back to Promenade.  We spent our last evening on the Promenade beach again. We'd say a trip to Pondicherry would be incomplete without an evening at Promenade. We had our bus to Bangalore at 10 and it was 6 already.So we were just about to leave Promenade when we noticed a T-shirt at Le-Cafe with the wordings "Don't ask me for time, I have just got back from Puducherry" and we bought it right away.
@@ -58,9 +59,9 @@ As one last stop, we visited "Basilica of the Sacred Heart of Jesus" which had �
 
 ![-](http://sancharaa.files.wordpress.com/2014/02/dsc05238.jpg)
 
-And so, even after a year when I see this sketch, it brings back the memories of this amazing trip with close friends,fresh..as if,it just happened yesterday.
+And so, even after a year when I see this sketch, it brings back the memories of this amazing trip with close friends, fresh.. as if, it just happened yesterday.
 
-**Trip duration:**  2 days, 1 night.  
-**Travel distance:**   766km (approx)  
-**Approx cost:**   ₹2500.  
-**Best time to visit:**   October to March.  
+**Trip duration:** 2 days, 1 night.  
+**Travel distance:**  766km (approx)  
+**Approx cost:**  ₹2500.  
+**Best time to visit:**  October to March.
