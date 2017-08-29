@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "When the city life started to get depressingly familiar.. a weekend getaway to Chikmagalur!"
-date:   2014-02-01 14:47:00
+date: 2014-02-01 14:47:00
 categories: karnataka
 tags: scenic
 author: Samata Sirsikar
-author_image: /assets/images/boy.png
-image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
+author_image: /assets/images/girl.png
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
 ---
 
@@ -50,13 +50,13 @@ After lunch we started our way back to Bangalore. The trip was indeed Epic! Refi
 > One’s destination is never a place, but a new way of seeing things.
 > [Henry Miller](http://en.wikipedia.org/wiki/Henry_Miller)
 
-We were back with a Bang to Bangalore! :)
+We were back with a bang to Bangalore! :)
 
 ![Here's our lot.. minus the photographer ofcourse.](http://sancharaa.files.wordpress.com/2014/02/img_8165.jpg)
 
 ![The photographer. "Either you don't live in this world or your photography skills are out of this world!" (Caption by Sumanth S Murthy)](http://sancharaa.files.wordpress.com/2014/02/1374346_10201444790094767_1292721013_n.jpg)
 
-Photos by [Vijesh](http://vijeshm.in/)
+Photos by [Vijesh](http://vijesh.me/)
 
 __Trip Duration:__ 2 days, 1 night  
 __Travel Distance:__ 600kms (approx)  
