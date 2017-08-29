@@ -18,7 +18,7 @@ We hate being late, but we are so good at it ;) We missed the beautiful sunrise,
 
 ![-](https://sancharaa.files.wordpress.com/2015/07/dsc06184.jpg)
 
-<b>Nandi Hills</b> or <b>Nandidurg</b>  is an ancient hill fortress in the <a href="https://en.wikipedia.org/wiki/Chikkaballapur_district">Chikkaballapur district</a> of <a href="https://en.wikipedia.org/wiki/Karnataka">Karnataka</a>. It is 10 km from Chickballapur town and approximately 60 km from the city of <a href="https://en.wikipedia.org/wiki/Bengaluru">Bengaluru</a>. The hills are nestled near the town of Nandi. [source-wiki].
+<b>Nandi Hills</b> or <b>Nandidurg</b>  is an ancient hill fortress in the <a href="https://en.wikipedia.org/wiki/Chikkaballapur_district">Chikkaballapur district</a> of <a href="https://en.wikipedia.org/wiki/Karnataka">Karnataka</a>. It is 10 km from Chickballapur town and approximately 60 km from the city of <a href="https://en.wikipedia.org/wiki/Bengaluru">Bengaluru</a>. The hills are nestled near the town of Nandi.
 
 We were welcomed by a huge arched fort entrance, where the ticket counter is. All vehicles have to be parked a little further from this entrance. If you are planning to carry any food items up the hills, get ready to negotiate with the monkeys! The monkeys here are super smart! We were hungry and planned to munch on something inside the car at the parking space. It just took two minutes for the smarties to notice this and call a bunch of others to raid us. Within no time there were monkeys all over the car, trying to figure out how to get into the car. One of the monkeys was jumping on the bonnet hoping to find a magical entrance. We then had to pack all the food stuffs back into a bag and slowly move the car to a different parking space. Even as we got down the car, few of the monkeys were still giving us evil looks :P There are beautiful tree houses near the parking space. Everyone around were busy getting photos clicked at this spot.
 
@@ -44,6 +44,4 @@ Little do people know about the birthplace of Vishveshvaraya - Muddenahalli, whi
 
 We then started our drive back to bangalore. The trip ended with a sumptuous lunch :)
 
-Tips : Do not miss on the fresh grapes and jackfruits sold by the locals in and around Chikballapur :)
-
-&nbsp;
+__Tips:__ Do not miss on the fresh grapes and jackfruits sold by the locals in and around Chikballapur :)
