@@ -2,11 +2,11 @@
 layout: post
 title:  "Colorado - I found my Western Ghats in U.S!"
 date:   2015-07-27 11:39
-categories: colorado
+categories: hikes
 tags: hikes
 author: Shruthi Nayak
-author_image: /assets/images/boy.png
-image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
+author_image: /assets/images/girl.png
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.jpg
 comments: true
 ---
 The very first driving factor that strengthened my decision of doing Masters in US was the idea of travelling in a foreign country and explore new places. Sure, I would have done that otherwise too. But living here and exploring the country as a resident is a whole lot of different experience. When I first got here, everything seemed so organized. The lanes, neatly groomed bushes, paved paths without the traces of soil on them, neatly maintained lush green lawns - all of this was "different" for me. I missed the chaos of my motherland. I missed the rawness of the nature. The smell of the soil, the rocky paths, the crowd, the tender fragrance of the flowers, the warmth of the tea in the rain under the misty western ghats watching the stall person frying out the hot pakodas from the oil - I missed all of it and I thought I would miss it for a long time. But Colorado made me feel at home. It made me fall in love with the mountains here, taught me that being organised is not that bad after all, the smell in the air brought a sense of comfort. The travel bud in me had found its nourishment. :)
