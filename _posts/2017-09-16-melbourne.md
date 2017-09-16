@@ -38,15 +38,16 @@ The main highlight of the day was visiting St Kilda at dusk to meet the little p
 ![St Kilda Pier](/assets/article_images/2017-09-16-melbourne/kildapier.jpg)
 
 Day 3:
+
 I was excited to see the sun out in the morning. This morning we had our breakfast while befriending the pets – Sharon, Fennigan and Kara. Adorable little creatures and extremely well mannered. 
 
 ![Sharon, the cat joining us for breakfast](/assets/article_images/2017-09-16-melbourne/cat.jpg)
 
-![St Kilda Pier](/assets/article_images/2017-09-16-melbourne/kildapier.jpg)
+![First time petting a rabbit :D](/assets/article_images/2017-09-16-melbourne/rabbit.jpg)
 
 We took the tram from Flemington to the CBD and started walking towards the Melbourne Museum. The Carlton gardens on the way to the museum looked like one of the places described in Enid Blyton’s books which I used to adore reading as a kid. Looking at well laid out pathways, the lush green grass, the autumn-orange colored leaves of trees, tiny pools with ducks waddling around, we could not help but sit on a bench for some time to just soak it all in. 
 
-![First time petting a rabbit :D](/assets/article_images/2017-09-16-melbourne/rabbit.jpg)
+![One of the very few non-selfies of two of us together. @Carlton Gardens](/assets/article_images/2017-09-16-melbourne/nonselfie.jpg)
 
 After a short walk from the Melbourne Museum, we were at the Parliament of Victoria which I was very keen to visit as they let you watch the sitting. But since it was a weekend, there was no sitting and Nikhil was quite disappointed to have overlooked this detail while planning out our itinerary. While he was contemplating on what to do next, I said “Come, I have a place in mind which I am sure will cheer you up!”
 After a good 15 minute walk, with him mumbling about how he should have checked the details properly, we reached Lygon Street. This street is synonymous with the Italian community of Melbourne very popular for its street side Italian restaurants and alfresco cafes. We settled down on a street side table at the famous restaurant “Tiamo” (which I had researched in advance and had found that it serves delicious vegetarian food as well). After lunch I said “See I had told you this will cheer you up”. I remember him wiping his lips after all the pizza, tiramisu and hot chocolate saying “I had no idea I am this easy to please” :D :D
