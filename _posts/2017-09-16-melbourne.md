@@ -23,6 +23,7 @@ We had booked an Airbnb room in an inner suburb called Flemington. The public tr
 We found our way into our room decided to leave the luggage there and set on to explore the city. As soon as we walked out, it had already become very cloudy and had started to rain! Though I had read that Melbourne experiences 4 seasons in a day, I had not expected it to be so drastic. We started our long walk from Flemington all the way to the CBD admiring the parks, trams, cars and the greenery on our way. Trams running on the middle of the road was something I saw for the first time and was quite thrilled about it.
 
 Day 2:
+
 Being a rainy day, the temperature was around 7-8 degrees outside but that dint effect our enthusiasm to step out and explore the city. We started our day at Queen Victoria Market, shopping for souvenirs, talking to the shopkeepers and eating some interesting “Spanish Donuts”. There are a lot of food options in this market and I would suggest everyone to try some. Melbourne is known for its art, culture and food which is quite apparent in their markets. You get to see a lot of quirky stuff here which kept me engrossed throughout. 
 
 ![Food stalls at Queen Victoria Market](/assets/article_images/2017-09-16-melbourne/foodstalls.jpg)
